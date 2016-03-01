@@ -1,0 +1,28 @@
+header {
+	background-size: cover;
+	background: url ("http://static.srcdn.com/slir/w700-h350-q90-c700:350/wp-content/uploads/scarface-movie-remake-script.jpg");
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	font-size: 50px;
+}
+
+.header-image {
+	margin-top: 50px;
+	height: 200px;
+	width: 200px;
+	border: 10px solid white;
+
+}
+ul {
+	background-color: grey;
+	padding: 10px 0px;
+}
+
+li {
+	display: inline;
+	padding: 0px 10px;
+}
